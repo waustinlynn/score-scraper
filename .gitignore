@@ -1,0 +1,114 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+.env/
+.venv/
+
+# Pipenv files
+Pipfile
+Pipfile.lock
+
+# Poetry files
+poetry.lock
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+coverage.xml
+*.cache
+nosetests.xml
+coverage/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# dotenv environment variables
+.env
+.env.*
+
+# MyPy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# Flask files
+instance/
+*.sqlite3
+
+# Django files
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# Sphinx documentation
+docs/_build/
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Other IDEs and editors
+*.sublime-workspace
+*.sublime-project
+*.idea/
+*.vscode/

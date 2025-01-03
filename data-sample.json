@@ -1,0 +1,3395 @@
+{
+    "jsonrpc": "2.0",
+    "result": {
+        "gameIds": [
+            5103179,
+            3313621,
+            5103177,
+            3313620,
+            5103174,
+            3313619,
+            2079187,
+            5103172,
+            3313618,
+            4274019,
+            3313617,
+            5103171,
+            3313616,
+            5103169,
+            3313615,
+            4274018,
+            3313614,
+            5103166,
+            3313613,
+            3316435,
+            4274017,
+            3313612,
+            5103165,
+            3313611,
+            3316434,
+            3313610,
+            3205188,
+            1487954,
+            2756722,
+            5103162
+        ],
+        "total": 30,
+        "collections": {
+            "gameCollection": {
+                "list": [
+                    {
+                        "gameId": 5103179,
+                        "homeTeamId": 274346,
+                        "awayTeamId": 274349,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1635843,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2037-11-28 17:00:00",
+                        "minUrl": "https://scorestream.com/game/5103179",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2024-01-22 22:16:53",
+                        "venueId": 160801,
+                        "gameTitle": "Sunshine Showdown",
+                        "scheduleCategoryId": 2200,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/florida-vs-florida-state-5103179",
+                        "url": "https://scorestream.com/game/florida-vs-florida-state-5103179",
+                        "longitude": -82.34865223306576,
+                        "latitude": 29.64996062663849,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 1,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 1,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2037-11-28 17:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 3313621,
+                        "homeTeamId": 262342,
+                        "awayTeamId": 274225,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2037-11-28 17:00:00",
+                        "minUrl": "https://scorestream.com/game/3313621",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2020-12-03 07:33:04",
+                        "venueId": 160640,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/south-carolina-vs-clemson-3313621",
+                        "url": "https://scorestream.com/game/south-carolina-vs-clemson-3313621",
+                        "longitude": -81.0191772,
+                        "latitude": 33.9730943,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2037-11-28 17:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 5103177,
+                        "homeTeamId": 274349,
+                        "awayTeamId": 274346,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1635843,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2036-11-29 17:00:00",
+                        "minUrl": "https://scorestream.com/game/5103177",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2024-01-22 22:16:27",
+                        "venueId": 160239,
+                        "gameTitle": "Sunshine Showdown",
+                        "scheduleCategoryId": 2200,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/florida-state-vs-florida-5103177",
+                        "url": "https://scorestream.com/game/florida-state-vs-florida-5103177",
+                        "longitude": -84.30445246137697,
+                        "latitude": 30.4381538,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2036-11-29 17:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 3313620,
+                        "homeTeamId": 274225,
+                        "awayTeamId": 262342,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2036-11-29 17:00:00",
+                        "minUrl": "https://scorestream.com/game/3313620",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2020-12-03 07:32:28",
+                        "venueId": 160030,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/clemson-vs-south-carolina-3313620",
+                        "url": "https://scorestream.com/game/clemson-vs-south-carolina-3313620",
+                        "longitude": -82.84317842698363,
+                        "latitude": 34.67857077280428,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2036-11-29 17:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 5103174,
+                        "homeTeamId": 274709,
+                        "awayTeamId": 274349,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1635843,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2036-10-04 16:00:00",
+                        "minUrl": "https://scorestream.com/game/5103174",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2024-01-22 22:16:03",
+                        "venueId": 160228,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 2200,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/Indiana/Indianapolis",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/notre-dame-vs-florida-state-5103174",
+                        "url": "https://scorestream.com/game/notre-dame-vs-florida-state-5103174",
+                        "longitude": -86.23394250000001,
+                        "latitude": 41.698378,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2036-10-04 16:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 3313619,
+                        "homeTeamId": 274727,
+                        "awayTeamId": 274225,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2036-09-13 16:00:00",
+                        "minUrl": "https://scorestream.com/game/3313619",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2020-12-03 07:32:10",
+                        "venueId": 160800,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/Chicago",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/oklahoma-vs-clemson-3313619",
+                        "url": "https://scorestream.com/game/oklahoma-vs-clemson-3313619",
+                        "longitude": -97.44231450000001,
+                        "latitude": 35.20585369999999,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2036-09-13 16:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 2079187,
+                        "homeTeamId": 280942,
+                        "awayTeamId": 274724,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 224760,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2036-09-13 16:00:00",
+                        "minUrl": "https://scorestream.com/game/2079187",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2018-09-17 17:43:39",
+                        "venueId": 160012,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 2200,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/boston-college-vs-ohio-state-2079187",
+                        "url": "https://scorestream.com/game/boston-college-vs-ohio-state-2079187",
+                        "longitude": -71.1664429306984,
+                        "latitude": 42.334997315493574,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2036-09-13 16:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 5103172,
+                        "homeTeamId": 274346,
+                        "awayTeamId": 274349,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1635843,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2035-11-24 17:00:00",
+                        "minUrl": "https://scorestream.com/game/5103172",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2024-01-22 22:15:32",
+                        "venueId": 160801,
+                        "gameTitle": "Sunshine Showdown",
+                        "scheduleCategoryId": 2200,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/florida-vs-florida-state-5103172",
+                        "url": "https://scorestream.com/game/florida-vs-florida-state-5103172",
+                        "longitude": -82.34865223306576,
+                        "latitude": 29.64996062663849,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2035-11-24 17:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 3313618,
+                        "homeTeamId": 262342,
+                        "awayTeamId": 274225,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2035-11-24 17:00:00",
+                        "minUrl": "https://scorestream.com/game/3313618",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2020-12-03 07:31:43",
+                        "venueId": 160640,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/south-carolina-vs-clemson-3313618",
+                        "url": "https://scorestream.com/game/south-carolina-vs-clemson-3313618",
+                        "longitude": -81.0191772,
+                        "latitude": 33.9730943,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2035-11-24 17:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 4274019,
+                        "homeTeamId": 274724,
+                        "awayTeamId": 280942,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2035-09-15 16:00:00",
+                        "minUrl": "https://scorestream.com/game/4274019",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2022-09-25 18:06:56",
+                        "venueId": 156760,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/ohio-state-vs-boston-college-4274019",
+                        "url": "https://scorestream.com/game/ohio-state-vs-boston-college-4274019",
+                        "longitude": -83.01972660000001,
+                        "latitude": 40.0016447,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2035-09-15 16:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 3313617,
+                        "homeTeamId": 274225,
+                        "awayTeamId": 274727,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2035-09-15 16:00:00",
+                        "minUrl": "https://scorestream.com/game/3313617",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2020-12-03 07:31:23",
+                        "venueId": 160030,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/clemson-vs-oklahoma-3313617",
+                        "url": "https://scorestream.com/game/clemson-vs-oklahoma-3313617",
+                        "longitude": -82.84317842698363,
+                        "latitude": 34.67857077280428,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2035-09-15 16:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 5103171,
+                        "homeTeamId": 274349,
+                        "awayTeamId": 274346,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1635843,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2034-11-25 17:00:00",
+                        "minUrl": "https://scorestream.com/game/5103171",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2024-01-22 22:15:03",
+                        "venueId": 160239,
+                        "gameTitle": "Sunshine Showdown",
+                        "scheduleCategoryId": 2200,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/florida-state-vs-florida-5103171",
+                        "url": "https://scorestream.com/game/florida-state-vs-florida-5103171",
+                        "longitude": -84.30445246137697,
+                        "latitude": 30.4381538,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2034-11-25 17:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 3313616,
+                        "homeTeamId": 274225,
+                        "awayTeamId": 262342,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2034-11-25 17:00:00",
+                        "minUrl": "https://scorestream.com/game/3313616",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2020-12-03 07:30:56",
+                        "venueId": 160030,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/clemson-vs-south-carolina-3313616",
+                        "url": "https://scorestream.com/game/clemson-vs-south-carolina-3313616",
+                        "longitude": -82.84317842698363,
+                        "latitude": 34.67857077280428,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2034-11-25 17:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 5103169,
+                        "homeTeamId": 274346,
+                        "awayTeamId": 274349,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1635843,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2033-11-26 17:00:00",
+                        "minUrl": "https://scorestream.com/game/5103169",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2024-01-22 22:14:38",
+                        "venueId": 160801,
+                        "gameTitle": "Sunshine Showdown",
+                        "scheduleCategoryId": 2200,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/florida-vs-florida-state-5103169",
+                        "url": "https://scorestream.com/game/florida-vs-florida-state-5103169",
+                        "longitude": -82.34865223306576,
+                        "latitude": 29.64996062663849,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2033-11-26 17:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 3313615,
+                        "homeTeamId": 262342,
+                        "awayTeamId": 274225,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2033-11-26 17:00:00",
+                        "minUrl": "https://scorestream.com/game/3313615",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2020-12-03 07:30:10",
+                        "venueId": 160640,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/south-carolina-vs-clemson-3313615",
+                        "url": "https://scorestream.com/game/south-carolina-vs-clemson-3313615",
+                        "longitude": -81.0191772,
+                        "latitude": 33.9730943,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2033-11-26 17:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 4274018,
+                        "homeTeamId": 274724,
+                        "awayTeamId": 272251,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2033-09-10 16:00:00",
+                        "minUrl": "https://scorestream.com/game/4274018",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2022-09-25 18:05:16",
+                        "venueId": 156760,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/ohio-state-vs-oregon-4274018",
+                        "url": "https://scorestream.com/game/ohio-state-vs-oregon-4274018",
+                        "longitude": -83.01972660000001,
+                        "latitude": 40.0016447,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2033-09-10 16:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 3313614,
+                        "homeTeamId": 274225,
+                        "awayTeamId": 274375,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2033-09-03 16:00:00",
+                        "minUrl": "https://scorestream.com/game/3313614",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2020-12-03 07:29:44",
+                        "venueId": 160030,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/clemson-vs-georgia-3313614",
+                        "url": "https://scorestream.com/game/clemson-vs-georgia-3313614",
+                        "longitude": -82.84317842698363,
+                        "latitude": 34.67857077280428,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2033-09-03 16:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 5103166,
+                        "homeTeamId": 274349,
+                        "awayTeamId": 274346,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1635843,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2032-11-27 17:00:00",
+                        "minUrl": "https://scorestream.com/game/5103166",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2024-01-22 22:14:11",
+                        "venueId": 160239,
+                        "gameTitle": "Sunshine Showdown",
+                        "scheduleCategoryId": 2200,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/florida-state-vs-florida-5103166",
+                        "url": "https://scorestream.com/game/florida-state-vs-florida-5103166",
+                        "longitude": -84.30445246137697,
+                        "latitude": 30.4381538,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2032-11-27 17:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 3313613,
+                        "homeTeamId": 274225,
+                        "awayTeamId": 262342,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2032-11-27 17:00:00",
+                        "minUrl": "https://scorestream.com/game/3313613",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2020-12-03 07:28:58",
+                        "venueId": 160030,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/clemson-vs-south-carolina-3313613",
+                        "url": "https://scorestream.com/game/clemson-vs-south-carolina-3313613",
+                        "longitude": -82.84317842698363,
+                        "latitude": 34.67857077280428,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2032-11-27 17:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 3316435,
+                        "homeTeamId": 274532,
+                        "awayTeamId": 275011,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1820435,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2032-09-12 01:00:00",
+                        "minUrl": "https://scorestream.com/game/3316435",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2020-12-04 16:13:07",
+                        "venueId": 160138,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/Chicago",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/lsu-vs-utah-3316435",
+                        "url": "https://scorestream.com/game/lsu-vs-utah-3316435",
+                        "longitude": -91.18381629999999,
+                        "latitude": 30.412035,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2032-09-12 01:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 4274017,
+                        "homeTeamId": 272251,
+                        "awayTeamId": 274724,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2032-09-11 16:00:00",
+                        "minUrl": "https://scorestream.com/game/4274017",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2022-09-25 18:04:14",
+                        "venueId": 160263,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/Los_Angeles",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/oregon-vs-ohio-state-4274017",
+                        "url": "https://scorestream.com/game/oregon-vs-ohio-state-4274017",
+                        "longitude": -123.06848830000001,
+                        "latitude": 44.0582712,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2032-09-11 16:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 3313612,
+                        "homeTeamId": 274375,
+                        "awayTeamId": 274225,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2032-09-04 16:00:00",
+                        "minUrl": "https://scorestream.com/game/3313612",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2020-12-03 07:28:24",
+                        "venueId": 160802,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/georgia-vs-clemson-3313612",
+                        "url": "https://scorestream.com/game/georgia-vs-clemson-3313612",
+                        "longitude": -83.37336602698372,
+                        "latitude": 33.94978479282644,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2032-09-04 16:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 5103165,
+                        "homeTeamId": 274346,
+                        "awayTeamId": 274349,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1635843,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2031-11-29 17:00:00",
+                        "minUrl": "https://scorestream.com/game/5103165",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2024-01-22 22:13:40",
+                        "venueId": 160801,
+                        "gameTitle": "Sunshine Showdown",
+                        "scheduleCategoryId": 2200,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/florida-vs-florida-state-5103165",
+                        "url": "https://scorestream.com/game/florida-vs-florida-state-5103165",
+                        "longitude": -82.34865223306576,
+                        "latitude": 29.64996062663849,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2031-11-29 17:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 3313611,
+                        "homeTeamId": 262342,
+                        "awayTeamId": 274225,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2031-11-29 17:00:00",
+                        "minUrl": "https://scorestream.com/game/3313611",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2020-12-03 07:27:45",
+                        "venueId": 160640,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/south-carolina-vs-clemson-3313611",
+                        "url": "https://scorestream.com/game/south-carolina-vs-clemson-3313611",
+                        "longitude": -81.0191772,
+                        "latitude": 33.9730943,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2031-11-29 17:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 3316434,
+                        "homeTeamId": 275011,
+                        "awayTeamId": 274532,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1820435,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2031-09-07 01:00:00",
+                        "minUrl": "https://scorestream.com/game/3316434",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2020-12-04 16:12:23",
+                        "venueId": 160806,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/Denver",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/utah-vs-lsu-3316434",
+                        "url": "https://scorestream.com/game/utah-vs-lsu-3316434",
+                        "longitude": -111.84882549999998,
+                        "latitude": 40.7599724,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2031-09-07 01:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 3313610,
+                        "homeTeamId": 274225,
+                        "awayTeamId": 274709,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2031-09-02 00:00:00",
+                        "minUrl": "https://scorestream.com/game/3313610",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2020-12-03 07:27:19",
+                        "venueId": 160030,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/clemson-vs-notre-dame-3313610",
+                        "url": "https://scorestream.com/game/clemson-vs-notre-dame-3313610",
+                        "longitude": -82.84317842698363,
+                        "latitude": 34.67857077280428,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2031-09-02 00:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 3205188,
+                        "homeTeamId": 274724,
+                        "awayTeamId": 274375,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1283456,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2031-08-30 16:00:00",
+                        "minUrl": "https://scorestream.com/game/3205188",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2020-10-05 23:58:31",
+                        "venueId": 156760,
+                        "gameTitle": null,
+                        "scheduleCategoryId": 100,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/ohio-state-vs-georgia-3205188",
+                        "url": "https://scorestream.com/game/ohio-state-vs-georgia-3205188",
+                        "longitude": -83.01972660000001,
+                        "latitude": 40.0016447,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2031-08-30 16:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 1487954,
+                        "homeTeamId": 291366,
+                        "awayTeamId": 283650,
+                        "homeSquadId": 8382,
+                        "awaySquadId": 8262,
+                        "sportName": "basketball",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 626878,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2031-06-20 08:00:38",
+                        "minUrl": "https://scorestream.com/game/1487954",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2017-10-12 08:04:10",
+                        "venueId": 161815,
+                        "gameTitle": null,
+                        "scheduleCategoryId": null,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/Chicago",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/bossier-parish-vs-lsu-shreveport-1487954",
+                        "url": "https://scorestream.com/game/bossier-parish-vs-lsu-shreveport-1487954",
+                        "longitude": -93.6459283,
+                        "latitude": 32.5394912,
+                        "sportId": 2,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 1,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2031-06-20 08:00:38",
+                            "gameClock": null,
+                            "confidenceGrade": 50,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 2756722,
+                        "homeTeamId": 306441,
+                        "awayTeamId": 306442,
+                        "homeSquadId": 9070,
+                        "awaySquadId": 9070,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1976098,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2031-04-26 22:00:00",
+                        "minUrl": "https://scorestream.com/game/2756722",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2019-09-21 01:21:25",
+                        "venueId": 182273,
+                        "gameTitle": null,
+                        "scheduleCategoryId": null,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/broncos-vs-sebastian-river-shark-2756722",
+                        "url": "https://scorestream.com/game/broncos-vs-sebastian-river-shark-2756722",
+                        "longitude": -80.46022499911487,
+                        "latitude": 27.75149459950626,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2031-04-26 22:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 5,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": [
+                                "gameCreatorIsLowTrustAndNoScoresShadeTheGame"
+                            ]
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    },
+                    {
+                        "gameId": 5103162,
+                        "homeTeamId": 274349,
+                        "awayTeamId": 274346,
+                        "homeSquadId": 8210,
+                        "awaySquadId": 8210,
+                        "sportName": "football",
+                        "gameSegmentType": "quarter",
+                        "useGameClock": null,
+                        "creatorUserId": 1635843,
+                        "minutesPerPeriod": null,
+                        "startDateTime": "2030-11-30 17:00:00",
+                        "minUrl": "https://scorestream.com/game/5103162",
+                        "hideLevel": 0,
+                        "rankBonus": 0,
+                        "dateCreated": "2024-01-22 22:13:03",
+                        "venueId": 160239,
+                        "gameTitle": "Sunshine Showdown",
+                        "scheduleCategoryId": 2200,
+                        "apSpecialName": null,
+                        "localGameTimezone": "America/New_York",
+                        "sourceConfidenceLevel": 80,
+                        "nfhsGameUrl": null,
+                        "relativeUrl": "/game/florida-state-vs-florida-5103162",
+                        "url": "https://scorestream.com/game/florida-state-vs-florida-5103162",
+                        "longitude": -84.30445246137697,
+                        "latitude": 30.4381538,
+                        "sportId": 1,
+                        "gameSegmentTypeId": 1,
+                        "awayTeamCheers": 0,
+                        "homeTeamCheers": 0,
+                        "totalPosts": 0,
+                        "totalPictures": 0,
+                        "totalVideos": 0,
+                        "totalQuickScores": 0,
+                        "totalChats": 0,
+                        "lastScore": {
+                            "awayTeamScore": 0,
+                            "homeTeamScore": 0,
+                            "gameSegmentId": 10010,
+                            "scoredDateTime": "2030-11-30 17:00:00",
+                            "gameClock": null,
+                            "confidenceGrade": 80,
+                            "stoppageStatusId": null,
+                            "stoppageMessage": null,
+                            "stoppageUntilDateTime": null,
+                            "stoppageGameSegmentId": null,
+                            "lastProcessedGameScoreId": null,
+                            "lastBranchScoreGameScoreId": null,
+                            "confidenceGradeInfluencers": []
+                        },
+                        "boxScores": [
+                            {
+                                "gameSegmentId": 10010
+                            },
+                            {
+                                "gameSegmentId": 10020
+                            },
+                            {
+                                "gameSegmentId": 10030
+                            },
+                            {
+                                "gameSegmentId": 10040
+                            },
+                            {
+                                "awayTeamScore": 0,
+                                "homeTeamScore": 0,
+                                "gameSegmentId": 19888
+                            }
+                        ],
+                        "branchedUsers": {}
+                    }
+                ]
+            },
+            "teamCollection": {
+                "list": [
+                    {
+                        "teamId": 274346,
+                        "teamName": "Florida",
+                        "mascot1": "Gators",
+                        "color1Id": 1090,
+                        "color2Id": 1450,
+                        "color3Id": 1000,
+                        "isOfficialTeam": 1,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1040,
+                        "organizationId": 1050,
+                        "defaultSquadId": 8210,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "F",
+                        "acronymTeamName": "FLA",
+                        "minTeamName": "Florida",
+                        "shortTeamName": "Florida",
+                        "apTeamName": "Florida",
+                        "colloquialTeamName": "Florida",
+                        "locationId": 128971,
+                        "city": "Gainesville",
+                        "state": "FL",
+                        "country": "US",
+                        "latitude": 29.6436325,
+                        "longitude": -82.3549302,
+                        "officialTeamName": "University of Florida",
+                        "relativeUrl": "/team/florida-gators-274346",
+                        "url": "https://scorestream.com/team/florida-gators-274346",
+                        "backgroundTeamPictureIds": [
+                            118561
+                        ],
+                        "mascotTeamPictureIds": [
+                            66323
+                        ],
+                        "mascotOrVarsityLetterTeamPictureId": 66323,
+                        "squadIds": [
+                            8210,
+                            8211
+                        ]
+                    },
+                    {
+                        "teamId": 274349,
+                        "teamName": "Florida State",
+                        "mascot1": "Seminoles",
+                        "color1Id": 1530,
+                        "color2Id": 1250,
+                        "color3Id": 1000,
+                        "isOfficialTeam": 1,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1040,
+                        "organizationId": 1050,
+                        "defaultSquadId": 8210,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "F",
+                        "acronymTeamName": "FSU",
+                        "minTeamName": "Florida State",
+                        "shortTeamName": "Florida State",
+                        "apTeamName": "Florida State",
+                        "colloquialTeamName": "Florida State",
+                        "locationId": 128974,
+                        "city": "Tallahassee",
+                        "state": "FL",
+                        "country": "US",
+                        "latitude": 30.4418778,
+                        "longitude": -84.2984889,
+                        "officialTeamName": "Florida State University",
+                        "relativeUrl": "/team/florida-state-seminoles-274349",
+                        "url": "https://scorestream.com/team/florida-state-seminoles-274349",
+                        "backgroundTeamPictureIds": [
+                            130558
+                        ],
+                        "mascotTeamPictureIds": [
+                            66329
+                        ],
+                        "mascotOrVarsityLetterTeamPictureId": 66329,
+                        "squadIds": [
+                            8210,
+                            8211
+                        ]
+                    },
+                    {
+                        "teamId": 262342,
+                        "teamName": "South Carolina",
+                        "mascot1": "Gamecocks",
+                        "color1Id": 1520,
+                        "color2Id": 1010,
+                        "color3Id": 1000,
+                        "isOfficialTeam": 1,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1040,
+                        "organizationId": 1050,
+                        "defaultSquadId": 8210,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "S",
+                        "acronymTeamName": "SC",
+                        "minTeamName": "South Carolina",
+                        "shortTeamName": "South Carolina",
+                        "apTeamName": "South Carolina",
+                        "colloquialTeamName": "South Carolina",
+                        "locationId": 116991,
+                        "city": "Columbia",
+                        "state": "SC",
+                        "country": "US",
+                        "latitude": 33.9937575,
+                        "longitude": -81.0299186,
+                        "officialTeamName": "University of South Carolina",
+                        "relativeUrl": "/team/south-carolina-gamecocks-262342",
+                        "url": "https://scorestream.com/team/south-carolina-gamecocks-262342",
+                        "backgroundTeamPictureIds": [
+                            128281
+                        ],
+                        "mascotTeamPictureIds": [
+                            128338
+                        ],
+                        "mascotOrVarsityLetterTeamPictureId": 128338,
+                        "squadIds": [
+                            8210,
+                            8211
+                        ]
+                    },
+                    {
+                        "teamId": 274225,
+                        "teamName": "Clemson",
+                        "mascot1": "Tigers",
+                        "color1Id": 1440,
+                        "color2Id": 1000,
+                        "color3Id": 1550,
+                        "isOfficialTeam": 1,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1040,
+                        "organizationId": 1050,
+                        "defaultSquadId": 8210,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "C",
+                        "acronymTeamName": "CLEM",
+                        "minTeamName": "Clemson",
+                        "shortTeamName": "Clemson",
+                        "apTeamName": "Clemson",
+                        "colloquialTeamName": "Clemson",
+                        "locationId": 128850,
+                        "city": "Clemson",
+                        "state": "SC",
+                        "country": "US",
+                        "latitude": 34.67384370000001,
+                        "longitude": -82.83686539999997,
+                        "officialTeamName": "Clemson University",
+                        "relativeUrl": "/team/clemson-tigers-274225",
+                        "url": "https://scorestream.com/team/clemson-tigers-274225",
+                        "backgroundTeamPictureIds": [
+                            124153
+                        ],
+                        "mascotTeamPictureIds": [
+                            107454
+                        ],
+                        "mascotOrVarsityLetterTeamPictureId": 107454,
+                        "squadIds": [
+                            8210,
+                            8211
+                        ]
+                    },
+                    {
+                        "teamId": 274709,
+                        "teamName": "Notre Dame",
+                        "mascot1": "Fighting Irish",
+                        "color1Id": 1060,
+                        "color2Id": 1410,
+                        "color3Id": 1350,
+                        "isOfficialTeam": 1,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1040,
+                        "organizationId": 1050,
+                        "defaultSquadId": 8210,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "N",
+                        "acronymTeamName": "ND",
+                        "minTeamName": "Notre Dame",
+                        "shortTeamName": "Notre Dame",
+                        "apTeamName": "Notre Dame South Bend INDIANA",
+                        "colloquialTeamName": "Notre Dame",
+                        "locationId": 129334,
+                        "city": "Notre Dame",
+                        "state": "IN",
+                        "country": "US",
+                        "latitude": 41.7050504,
+                        "longitude": -86.2355439,
+                        "officialTeamName": "University of Notre Dame",
+                        "relativeUrl": "/team/notre-dame-fighting-irish-274709",
+                        "url": "https://scorestream.com/team/notre-dame-fighting-irish-274709",
+                        "backgroundTeamPictureIds": [
+                            115329
+                        ],
+                        "mascotTeamPictureIds": [
+                            66940
+                        ],
+                        "mascotOrVarsityLetterTeamPictureId": 66940,
+                        "squadIds": [
+                            8210,
+                            8211
+                        ]
+                    },
+                    {
+                        "teamId": 274727,
+                        "teamName": "Oklahoma",
+                        "mascot1": "Sooners",
+                        "color1Id": 1510,
+                        "color2Id": 1000,
+                        "color3Id": 1030,
+                        "isOfficialTeam": 1,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1040,
+                        "organizationId": 1050,
+                        "defaultSquadId": 8210,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "O",
+                        "acronymTeamName": "OKLA",
+                        "minTeamName": "Oklahoma",
+                        "shortTeamName": "Oklahoma",
+                        "apTeamName": "Oklahoma",
+                        "colloquialTeamName": "Oklahoma",
+                        "locationId": 129352,
+                        "city": "Norman",
+                        "state": "OK",
+                        "country": "US",
+                        "latitude": 35.205894,
+                        "longitude": -97.44571400000001,
+                        "officialTeamName": "University of Oklahoma",
+                        "relativeUrl": "/team/oklahoma-sooners-274727",
+                        "url": "https://scorestream.com/team/oklahoma-sooners-274727",
+                        "backgroundTeamPictureIds": [
+                            118079
+                        ],
+                        "mascotTeamPictureIds": [
+                            118078
+                        ],
+                        "mascotOrVarsityLetterTeamPictureId": 118078,
+                        "squadIds": [
+                            8210,
+                            8211
+                        ]
+                    },
+                    {
+                        "teamId": 280942,
+                        "teamName": "Boston College",
+                        "mascot1": "Eagles",
+                        "color1Id": 1520,
+                        "color2Id": 1230,
+                        "color3Id": 1000,
+                        "isOfficialTeam": 1,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1040,
+                        "organizationId": 1050,
+                        "defaultSquadId": 8210,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "B",
+                        "acronymTeamName": "BC",
+                        "minTeamName": "Boston College",
+                        "shortTeamName": "Boston College",
+                        "apTeamName": "Boston College",
+                        "colloquialTeamName": "Boston College",
+                        "locationId": 135567,
+                        "city": "Chestnut Hill",
+                        "state": "MA",
+                        "country": "US",
+                        "latitude": 42.3355488,
+                        "longitude": -71.16849450000001,
+                        "officialTeamName": "Boston College",
+                        "relativeUrl": "/team/boston-college-eagles-280942",
+                        "url": "https://scorestream.com/team/boston-college-eagles-280942",
+                        "backgroundTeamPictureIds": [
+                            128357
+                        ],
+                        "mascotTeamPictureIds": [
+                            69383
+                        ],
+                        "mascotOrVarsityLetterTeamPictureId": 69383,
+                        "squadIds": [
+                            8210,
+                            8211
+                        ]
+                    },
+                    {
+                        "teamId": 274724,
+                        "teamName": "Ohio State",
+                        "mascot1": "Buckeyes",
+                        "color1Id": 1500,
+                        "color2Id": 1020,
+                        "color3Id": 1000,
+                        "isOfficialTeam": 1,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1040,
+                        "organizationId": 1050,
+                        "defaultSquadId": 8210,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "O",
+                        "acronymTeamName": "OSU",
+                        "minTeamName": "Ohio State",
+                        "shortTeamName": "Ohio State",
+                        "apTeamName": "Ohio State",
+                        "colloquialTeamName": "Ohio State",
+                        "locationId": 129349,
+                        "city": "Columbus",
+                        "state": "OH",
+                        "country": "US",
+                        "latitude": 40.0066723,
+                        "longitude": -83.0304546,
+                        "officialTeamName": "Ohio State University",
+                        "relativeUrl": "/team/ohio-state-buckeyes-274724",
+                        "url": "https://scorestream.com/team/ohio-state-buckeyes-274724",
+                        "backgroundTeamPictureIds": [
+                            118077
+                        ],
+                        "mascotTeamPictureIds": [
+                            66961
+                        ],
+                        "mascotOrVarsityLetterTeamPictureId": 66961,
+                        "squadIds": [
+                            8210,
+                            8211
+                        ]
+                    },
+                    {
+                        "teamId": 272251,
+                        "teamName": "Oregon",
+                        "mascot1": "Ducks",
+                        "color1Id": 1300,
+                        "color2Id": 1400,
+                        "color3Id": 1010,
+                        "isOfficialTeam": 1,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1040,
+                        "organizationId": 1050,
+                        "defaultSquadId": 8210,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "O",
+                        "acronymTeamName": "ORE",
+                        "minTeamName": "Oregon",
+                        "shortTeamName": "Oregon",
+                        "apTeamName": "Oregon",
+                        "colloquialTeamName": "Oregon",
+                        "locationId": 126876,
+                        "city": "Eugene",
+                        "state": "OR",
+                        "country": "US",
+                        "latitude": 44.04483,
+                        "longitude": -123.07260600000001,
+                        "officialTeamName": "University of Oregon",
+                        "relativeUrl": "/team/oregon-ducks-272251",
+                        "url": "https://scorestream.com/team/oregon-ducks-272251",
+                        "backgroundTeamPictureIds": [
+                            110096
+                        ],
+                        "mascotTeamPictureIds": [
+                            92046
+                        ],
+                        "mascotOrVarsityLetterTeamPictureId": 92046,
+                        "squadIds": [
+                            8210,
+                            8211
+                        ]
+                    },
+                    {
+                        "teamId": 274375,
+                        "teamName": "Georgia",
+                        "mascot1": "Bulldogs",
+                        "color1Id": 1480,
+                        "color2Id": 1010,
+                        "color3Id": 1000,
+                        "isOfficialTeam": 1,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1040,
+                        "organizationId": 1050,
+                        "defaultSquadId": 8210,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "G",
+                        "acronymTeamName": "UGA",
+                        "minTeamName": "Georgia",
+                        "shortTeamName": "Georgia",
+                        "apTeamName": "Georgia",
+                        "colloquialTeamName": "Georgia",
+                        "locationId": 129000,
+                        "city": "Athens",
+                        "state": "GA",
+                        "country": "US",
+                        "latitude": 33.95666559999999,
+                        "longitude": -83.375192,
+                        "officialTeamName": "University of Georgia",
+                        "relativeUrl": "/team/georgia-bulldogs-274375",
+                        "url": "https://scorestream.com/team/georgia-bulldogs-274375",
+                        "backgroundTeamPictureIds": [
+                            118073
+                        ],
+                        "mascotTeamPictureIds": [
+                            118072
+                        ],
+                        "mascotOrVarsityLetterTeamPictureId": 118072,
+                        "squadIds": [
+                            8210,
+                            8211
+                        ]
+                    },
+                    {
+                        "teamId": 274532,
+                        "teamName": "Louisiana State",
+                        "mascot1": "Tigers",
+                        "color1Id": 1550,
+                        "color2Id": 1400,
+                        "color3Id": 1000,
+                        "isOfficialTeam": 1,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1040,
+                        "organizationId": 1050,
+                        "defaultSquadId": 8210,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "L",
+                        "acronymTeamName": "LSU",
+                        "minTeamName": "LSU",
+                        "shortTeamName": "Louisiana State",
+                        "apTeamName": "Louisiana State",
+                        "colloquialTeamName": "Louisiana State",
+                        "locationId": 129157,
+                        "city": "Baton Rouge",
+                        "state": "LA",
+                        "country": "US",
+                        "latitude": 30.4132579,
+                        "longitude": -91.1800023,
+                        "officialTeamName": "Louisiana State University",
+                        "relativeUrl": "/team/louisiana-state-tigers-274532",
+                        "url": "https://scorestream.com/team/louisiana-state-tigers-274532",
+                        "backgroundTeamPictureIds": [
+                            118074
+                        ],
+                        "mascotTeamPictureIds": [
+                            122605
+                        ],
+                        "mascotOrVarsityLetterTeamPictureId": 122605,
+                        "squadIds": [
+                            8210,
+                            8211
+                        ]
+                    },
+                    {
+                        "teamId": 275011,
+                        "teamName": "Utah",
+                        "mascot1": "Utes",
+                        "color1Id": 1480,
+                        "color2Id": 1000,
+                        "color3Id": 1010,
+                        "isOfficialTeam": 1,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1040,
+                        "organizationId": 1050,
+                        "defaultSquadId": 8210,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "U",
+                        "acronymTeamName": "UTAH",
+                        "minTeamName": "Utah",
+                        "shortTeamName": "Utah",
+                        "apTeamName": "Utah Utes",
+                        "colloquialTeamName": "Utah",
+                        "locationId": 129636,
+                        "city": "Salt Lake City",
+                        "state": "UT",
+                        "country": "US",
+                        "latitude": 40.764937,
+                        "longitude": -111.84210200000001,
+                        "officialTeamName": "University of Utah",
+                        "relativeUrl": "/team/utah-utes-275011",
+                        "url": "https://scorestream.com/team/utah-utes-275011",
+                        "backgroundTeamPictureIds": [
+                            111414
+                        ],
+                        "mascotTeamPictureIds": [
+                            111413
+                        ],
+                        "mascotOrVarsityLetterTeamPictureId": 111413,
+                        "squadIds": [
+                            8210,
+                            8211
+                        ]
+                    },
+                    {
+                        "teamId": 291366,
+                        "teamName": "Bossier Parish Community College",
+                        "mascot1": "Cavaliers",
+                        "color1Id": 1520,
+                        "color2Id": 1400,
+                        "color3Id": null,
+                        "isOfficialTeam": 1,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1060,
+                        "organizationId": 1060,
+                        "defaultSquadId": 8382,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "B",
+                        "acronymTeamName": "BPCC",
+                        "minTeamName": "Bossier Parish",
+                        "shortTeamName": "Bossier Parish Community College",
+                        "apTeamName": "Bossier Parish",
+                        "colloquialTeamName": "Bossier Parish Community College",
+                        "locationId": 161838,
+                        "city": "Bossier City",
+                        "state": "LA",
+                        "country": "US",
+                        "latitude": 32.5394912,
+                        "longitude": -93.6459283,
+                        "officialTeamName": "Bossier Parish Community College",
+                        "relativeUrl": "/team/bossier-parish-community-college-cavaliers-291366",
+                        "url": "https://scorestream.com/team/bossier-parish-community-college-cavaliers-291366",
+                        "backgroundTeamPictureIds": [],
+                        "mascotTeamPictureIds": [
+                            114176
+                        ],
+                        "mascotOrVarsityLetterTeamPictureId": 114176,
+                        "squadIds": [
+                            8382
+                        ]
+                    },
+                    {
+                        "teamId": 283650,
+                        "teamName": "LSU Shreveport",
+                        "mascot1": "Pilots",
+                        "color1Id": 1400,
+                        "color2Id": 1550,
+                        "color3Id": null,
+                        "isOfficialTeam": 1,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1040,
+                        "organizationId": 8048,
+                        "defaultSquadId": null,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "L",
+                        "acronymTeamName": "LSUS",
+                        "minTeamName": "LSU Shreveport",
+                        "shortTeamName": "LSU Shreveport",
+                        "apTeamName": "LSU Shreveport",
+                        "colloquialTeamName": "LSU Shreveport",
+                        "locationId": 138275,
+                        "city": "Shreveport",
+                        "state": "LA",
+                        "country": "US",
+                        "latitude": 32.42858439999999,
+                        "longitude": -93.7042912,
+                        "officialTeamName": "Louisiana State University Shreveport",
+                        "relativeUrl": "/team/lsu-shreveport-pilots-283650",
+                        "url": "https://scorestream.com/team/lsu-shreveport-pilots-283650",
+                        "backgroundTeamPictureIds": [],
+                        "mascotTeamPictureIds": [
+                            101108
+                        ],
+                        "mascotOrVarsityLetterTeamPictureId": 101108,
+                        "squadIds": [
+                            8262,
+                            8261
+                        ]
+                    },
+                    {
+                        "teamId": 306441,
+                        "teamName": "Broncos",
+                        "mascot1": "Broncos",
+                        "color1Id": 1430,
+                        "color2Id": 1090,
+                        "color3Id": 1010,
+                        "isOfficialTeam": 0,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1010,
+                        "organizationId": 8247,
+                        "defaultSquadId": 9070,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "B",
+                        "acronymTeamName": "B",
+                        "minTeamName": "Broncos",
+                        "shortTeamName": "Broncos",
+                        "apTeamName": "Broncos",
+                        "colloquialTeamName": "Broncos",
+                        "locationId": 182318,
+                        "city": "Wabasso",
+                        "state": "FL",
+                        "latitude": 27.75149459950626,
+                        "longitude": -80.46022499911487,
+                        "officialTeamName": "Broncos",
+                        "relativeUrl": "/team/broncos-306441",
+                        "url": "https://scorestream.com/team/broncos-306441",
+                        "backgroundTeamPictureIds": [],
+                        "mascotTeamPictureIds": [],
+                        "mascotOrVarsityLetterTeamPictureId": 110901430,
+                        "squadIds": [
+                            9070
+                        ]
+                    },
+                    {
+                        "teamId": 306442,
+                        "teamName": "Sebastian River shark",
+                        "mascot1": "Shark",
+                        "color1Id": 1100,
+                        "color2Id": 1030,
+                        "color3Id": 1010,
+                        "isOfficialTeam": 0,
+                        "hideLevel": 0,
+                        "levelOfPlayId": 1010,
+                        "organizationId": 8247,
+                        "defaultSquadId": 9070,
+                        "squadListIsLocked": 1,
+                        "varsityLetter": "S",
+                        "acronymTeamName": "SRS",
+                        "minTeamName": "Sebastian River shark",
+                        "shortTeamName": "Sebastian River shark",
+                        "apTeamName": "Sebastian River shark",
+                        "colloquialTeamName": "Sebastian River shark",
+                        "locationId": 182319,
+                        "city": "Sebastian River",
+                        "state": "FL",
+                        "latitude": 27.75149459950626,
+                        "longitude": -80.46022499911487,
+                        "officialTeamName": "Sebastian River shark",
+                        "relativeUrl": "/team/sebastian-river-shark-shark-306442",
+                        "url": "https://scorestream.com/team/sebastian-river-shark-shark-306442",
+                        "backgroundTeamPictureIds": [],
+                        "mascotTeamPictureIds": [],
+                        "mascotOrVarsityLetterTeamPictureId": 1810301100,
+                        "squadIds": [
+                            9070
+                        ]
+                    }
+                ]
+            },
+            "squadCollection": {
+                "list": [
+                    {
+                        "squadId": 8210,
+                        "gender": "mens",
+                        "level": "College",
+                        "shortLevel": null,
+                        "minLevel": null,
+                        "sortOrder": null,
+                        "gameCardDisplay": "Mens NCAA {sport}",
+                        "scoreboardDisplay": "Mens NCAA {sport}",
+                        "selectionDisplay": "Mens NCAA",
+                        "spgDisplayLong": "Mens NCAA {sport}",
+                        "spgDisplayShort": "Mens NCAA {sportAbbreviation}",
+                        "spgDisplayMin": "NCAAM {sportAbbreviation}",
+                        "display": "Mens College",
+                        "shortDisplay": "Mens College",
+                        "parentOrganizationId": 1050
+                    },
+                    {
+                        "squadId": 8382,
+                        "gender": "womens",
+                        "level": "NJCAA",
+                        "shortLevel": null,
+                        "minLevel": null,
+                        "sortOrder": null,
+                        "gameCardDisplay": "Womens NJCAA {sport}",
+                        "scoreboardDisplay": "Womens NJCAA {sport}",
+                        "selectionDisplay": "Womens NJCAA",
+                        "spgDisplayLong": "Womens NJCAA {sport}",
+                        "spgDisplayShort": "Boys MS{sportAbbreviation}",
+                        "spgDisplayMin": "NJCAAW {sportAbbreviation}",
+                        "display": "Womens NJCAA",
+                        "shortDisplay": "Womens NJCAA",
+                        "parentOrganizationId": 1060
+                    },
+                    {
+                        "squadId": 8262,
+                        "gender": "womens",
+                        "level": "College",
+                        "shortLevel": null,
+                        "minLevel": null,
+                        "sortOrder": null,
+                        "gameCardDisplay": "Womens NAIA {sport}",
+                        "scoreboardDisplay": "Womens NAIA {sport}",
+                        "selectionDisplay": "Womens NAIA",
+                        "spgDisplayLong": "Womens NAIA {sport}",
+                        "spgDisplayShort": "Womens NAIA {sportAbbreviation}",
+                        "spgDisplayMin": "NAIAW {sportAbbreviation}",
+                        "display": "Womens College",
+                        "shortDisplay": "Womens College",
+                        "parentOrganizationId": 8048
+                    },
+                    {
+                        "squadId": 9070,
+                        "gender": "boys",
+                        "level": "7v7",
+                        "shortLevel": null,
+                        "minLevel": null,
+                        "sortOrder": null,
+                        "gameCardDisplay": "7v7",
+                        "scoreboardDisplay": "7v7",
+                        "selectionDisplay": "7v7",
+                        "spgDisplayLong": "7v7",
+                        "spgDisplayShort": "7v7",
+                        "spgDisplayMin": "7v7",
+                        "display": "Boys 7v7",
+                        "shortDisplay": "Boys 7v7",
+                        "parentOrganizationId": 8247
+                    }
+                ]
+            },
+            "teamPictureCollection": {
+                "list": [
+                    {
+                        "teamPictureId": 118561,
+                        "creatorUserId": 496564,
+                        "teamId": 274346,
+                        "type": "background",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20230818063737_10_backgroundOrig.jpg",
+                        "max480Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20230818063737_10_background480.jpg",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20230818063737_10_background720.jpg",
+                        "max1200Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20230818063737_10_background1200.jpg",
+                        "max2000Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20230818063737_10_background2000Near.jpg",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20230818063737_10_background720.jpg",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20230818063737_10_background2000Near.jpg",
+                        "width": 1500,
+                        "height": 500,
+                        "aspectRatio": 3
+                    },
+                    {
+                        "teamPictureId": 130558,
+                        "creatorUserId": 1635843,
+                        "teamId": 274349,
+                        "type": "background",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20241112135438_816_backgroundOrig.jpg",
+                        "max480Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20241112135438_816_background480.jpg",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20241112135438_816_background720.jpg",
+                        "max1200Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20241112135438_816_background1200.jpg",
+                        "max2000Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20241112135438_816_background2000Near.jpg",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20241112135438_816_background720.jpg",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20241112135438_816_background2000Near.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "aspectRatio": 1.7777777777777777
+                    },
+                    {
+                        "teamPictureId": 128281,
+                        "creatorUserId": 496564,
+                        "teamId": 262342,
+                        "type": "background",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240518221539_241_backgroundOrig.jpg",
+                        "max480Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240518221539_241_background480.jpg",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240518221539_241_background720.jpg",
+                        "max1200Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240518221539_241_background1200.jpg",
+                        "max2000Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240518221539_241_background2000Near.jpg",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240518221539_241_background720.jpg",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240518221539_241_background2000Near.jpg",
+                        "width": 1500,
+                        "height": 500,
+                        "aspectRatio": 3
+                    },
+                    {
+                        "teamPictureId": 124153,
+                        "creatorUserId": 496564,
+                        "teamId": 274225,
+                        "type": "background",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20240106104231_850_backgroundOrig.jpg",
+                        "max480Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20240106104231_850_background480.jpg",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20240106104231_850_background720.jpg",
+                        "max1200Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20240106104231_850_background1200.jpg",
+                        "max2000Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20240106104231_850_background2000Near.jpg",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20240106104231_850_background720.jpg",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20240106104231_850_background2000Near.jpg",
+                        "width": 1500,
+                        "height": 500,
+                        "aspectRatio": 3
+                    },
+                    {
+                        "teamPictureId": 115329,
+                        "creatorUserId": 496564,
+                        "teamId": 274709,
+                        "type": "background",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20230530072351_220_backgroundOrig.jpg",
+                        "max480Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20230530072351_220_background480.jpg",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20230530072351_220_background720.jpg",
+                        "max1200Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20230530072351_220_background1200.jpg",
+                        "max2000Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20230530072351_220_background2000.jpg",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20230530072351_220_background720.jpg",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20230530072351_220_background2000.jpg",
+                        "width": 2048,
+                        "height": 1365,
+                        "aspectRatio": 1.5003663003663004
+                    },
+                    {
+                        "teamPictureId": 118079,
+                        "creatorUserId": 496564,
+                        "teamId": 274727,
+                        "type": "background",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050956_413_backgroundOrig.jpg",
+                        "max480Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050956_413_background480.jpg",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050956_413_background720.jpg",
+                        "max1200Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050956_413_background1200.jpg",
+                        "max2000Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050956_413_background2000Near.jpg",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050956_413_background720.jpg",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050956_413_background2000Near.jpg",
+                        "width": 1500,
+                        "height": 500,
+                        "aspectRatio": 3
+                    },
+                    {
+                        "teamPictureId": 128357,
+                        "creatorUserId": 496564,
+                        "teamId": 280942,
+                        "type": "background",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20240528214057_252_backgroundOrig.jpg",
+                        "max480Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20240528214057_252_background480.jpg",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20240528214057_252_background720.jpg",
+                        "max1200Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20240528214057_252_background1200.jpg",
+                        "max2000Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20240528214057_252_background2000.jpg",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20240528214057_252_background720.jpg",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20240528214057_252_background2000.jpg",
+                        "width": 2048,
+                        "height": 1366,
+                        "aspectRatio": 1.499267935578331
+                    },
+                    {
+                        "teamPictureId": 118077,
+                        "creatorUserId": 496564,
+                        "teamId": 274724,
+                        "type": "background",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20230813050650_940_backgroundOrig.jpg",
+                        "max480Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20230813050650_940_background480.jpg",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20230813050650_940_background720.jpg",
+                        "max1200Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20230813050650_940_background1200.jpg",
+                        "max2000Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20230813050650_940_background2000Near.jpg",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20230813050650_940_background720.jpg",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20230813050650_940_background2000Near.jpg",
+                        "width": 1500,
+                        "height": 500,
+                        "aspectRatio": 3
+                    },
+                    {
+                        "teamPictureId": 110096,
+                        "creatorUserId": 245990,
+                        "teamId": 272251,
+                        "type": "background",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20221022215224_283_backgroundOrig.jpg",
+                        "max480Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20221022215224_283_background480.jpg",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20221022215224_283_background720.jpg",
+                        "max1200Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20221022215224_283_background1200Near.jpg",
+                        "max2000Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20221022215224_283_background1200Near.jpg",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20221022215224_283_background720.jpg",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20221022215224_283_background1200Near.jpg",
+                        "width": 1000,
+                        "height": 245,
+                        "aspectRatio": 4.081632653061225
+                    },
+                    {
+                        "teamPictureId": 118073,
+                        "creatorUserId": 496564,
+                        "teamId": 274375,
+                        "type": "background",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050429_412_backgroundOrig.png",
+                        "max480Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050429_412_background480.jpg",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050429_412_background720.jpg",
+                        "max1200Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050429_412_background1200.jpg",
+                        "max2000Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050429_412_background2000Near.jpg",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050429_412_background720.jpg",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050429_412_background2000Near.jpg",
+                        "width": 1500,
+                        "height": 500,
+                        "aspectRatio": 3
+                    },
+                    {
+                        "teamPictureId": 118074,
+                        "creatorUserId": 496564,
+                        "teamId": 274532,
+                        "type": "background",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20230813050440_462_backgroundOrig.jpg",
+                        "max480Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20230813050440_462_background480.jpg",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20230813050440_462_background720.jpg",
+                        "max1200Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20230813050440_462_background1200.jpg",
+                        "max2000Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20230813050440_462_background2000Near.jpg",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20230813050440_462_background720.jpg",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20230813050440_462_background2000Near.jpg",
+                        "width": 1500,
+                        "height": 500,
+                        "aspectRatio": 3
+                    },
+                    {
+                        "teamPictureId": 111414,
+                        "creatorUserId": 245990,
+                        "teamId": 275011,
+                        "type": "background",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013225_149_backgroundOrig.jpg",
+                        "max480Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013225_149_background480.jpg",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013225_149_background720.jpg",
+                        "max1200Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013225_149_background1200Near.jpg",
+                        "max2000Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013225_149_background1200Near.jpg",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013225_149_background720.jpg",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013225_149_background1200Near.jpg",
+                        "width": 1000,
+                        "height": 271,
+                        "aspectRatio": 3.690036900369004
+                    },
+                    {
+                        "teamPictureId": 66323,
+                        "creatorUserId": 188263,
+                        "teamId": 274346,
+                        "type": "mascot",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20181010232833_338_mascotOrig.png",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20181010232833_338_mascot35.png",
+                        "max44Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20181010232833_338_mascot44.png",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20181010232833_338_mascot90.png",
+                        "max135Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20181010232833_338_mascot135.png",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20181010232833_338_mascot300.png",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20181010232833_338_mascot720.png",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20181010232833_338_mascot1280.png",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20181010232833_338_mascot720.png",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274346/20181010232833_338_mascot1280.png",
+                        "width": 1280,
+                        "height": 831,
+                        "aspectRatio": 1.5403128760529483
+                    },
+                    {
+                        "teamPictureId": 66329,
+                        "creatorUserId": 188263,
+                        "teamId": 274349,
+                        "type": "mascot",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20181010232835_346_mascotOrig.png",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20181010232835_346_mascot35.png",
+                        "max44Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20181010232835_346_mascot44.png",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20181010232835_346_mascot90.png",
+                        "max135Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20181010232835_346_mascot135.png",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20181010232835_346_mascot300.png",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20181010232835_346_mascot720.png",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20181010232835_346_mascot1280Near.png",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20181010232835_346_mascot720.png",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274349/20181010232835_346_mascot1280Near.png",
+                        "width": 1200,
+                        "height": 1224,
+                        "aspectRatio": 0.9803921568627451
+                    },
+                    {
+                        "teamPictureId": 128338,
+                        "creatorUserId": 1820435,
+                        "teamId": 262342,
+                        "type": "mascot",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240522000110_835_mascotOrig.png",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240522000110_835_mascot35.png",
+                        "max44Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240522000110_835_mascot44.png",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240522000110_835_mascot90.png",
+                        "max135Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240522000110_835_mascot135.png",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240522000110_835_mascot300.png",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240522000110_835_mascot720.png",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240522000110_835_mascot1280.png",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240522000110_835_mascot720.png",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/262342/20240522000110_835_mascot1280.png",
+                        "width": 1200,
+                        "height": 1317,
+                        "aspectRatio": 0.9111617312072893
+                    },
+                    {
+                        "teamPictureId": 107454,
+                        "creatorUserId": 496564,
+                        "teamId": 274225,
+                        "type": "mascot",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20220816094845_131_mascotOrig.png",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20220816094845_131_mascot35.png",
+                        "max44Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20220816094845_131_mascot44.png",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20220816094845_131_mascot90.png",
+                        "max135Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20220816094845_131_mascot135.png",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20220816094845_131_mascot300.png",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20220816094845_131_mascot720.png",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20220816094845_131_mascot1280Near.png",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20220816094845_131_mascot720.png",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274225/20220816094845_131_mascot1280Near.png",
+                        "width": 1071,
+                        "height": 1024,
+                        "aspectRatio": 1.0458984375
+                    },
+                    {
+                        "teamPictureId": 66940,
+                        "creatorUserId": 188263,
+                        "teamId": 274709,
+                        "type": "mascot",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20181010233238_938_mascotOrig.png",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20181010233238_938_mascot35.png",
+                        "max44Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20181010233238_938_mascot44.png",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20181010233238_938_mascot90.png",
+                        "max135Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20181010233238_938_mascot135.png",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20181010233238_938_mascot300.png",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20181010233238_938_mascot720.png",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20181010233238_938_mascot1280Near.png",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20181010233238_938_mascot720.png",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274709/20181010233238_938_mascot1280Near.png",
+                        "width": 1138,
+                        "height": 1024,
+                        "aspectRatio": 1.111328125
+                    },
+                    {
+                        "teamPictureId": 118078,
+                        "creatorUserId": 496564,
+                        "teamId": 274727,
+                        "type": "mascot",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050846_664_mascotOrig.png",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050846_664_mascot35.png",
+                        "max44Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050846_664_mascot44.png",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050846_664_mascot90.png",
+                        "max135Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050846_664_mascot135.png",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050846_664_mascot300.png",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050846_664_mascot720.png",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050846_664_mascot1280.png",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050846_664_mascot720.png",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274727/20230813050846_664_mascot1280.png",
+                        "width": 1686,
+                        "height": 2198,
+                        "aspectRatio": 0.7670609645131938
+                    },
+                    {
+                        "teamPictureId": 69383,
+                        "creatorUserId": 188263,
+                        "teamId": 280942,
+                        "type": "mascot",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20181010235711_571_mascotOrig.png",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20181010235711_571_mascot35.png",
+                        "max44Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20181010235711_571_mascot44.png",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20181010235711_571_mascot90.png",
+                        "max135Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20181010235711_571_mascot135.png",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20181010235711_571_mascot300.png",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20181010235711_571_mascot720Near.png",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20181010235711_571_mascot720Near.png",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20181010235711_571_mascot720Near.png",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/280942/20181010235711_571_mascot720Near.png",
+                        "width": 500,
+                        "height": 500,
+                        "aspectRatio": 1
+                    },
+                    {
+                        "teamPictureId": 66961,
+                        "creatorUserId": 188263,
+                        "teamId": 274724,
+                        "type": "mascot",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20181010233304_642_mascotOrig.png",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20181010233304_642_mascot35.png",
+                        "max44Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20181010233304_642_mascot44.png",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20181010233304_642_mascot90.png",
+                        "max135Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20181010233304_642_mascot135.png",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20181010233304_642_mascot300.png",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20181010233304_642_mascot720.png",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20181010233304_642_mascot1280.png",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20181010233304_642_mascot720.png",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274724/20181010233304_642_mascot1280.png",
+                        "width": 2000,
+                        "height": 1965,
+                        "aspectRatio": 1.0178117048346056
+                    },
+                    {
+                        "teamPictureId": 92046,
+                        "creatorUserId": 496564,
+                        "teamId": 272251,
+                        "type": "mascot",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20190722064132_653_mascotOrig.png",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20190722064132_653_mascot35.png",
+                        "max44Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20190722064132_653_mascot44.png",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20190722064132_653_mascot90.png",
+                        "max135Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20190722064132_653_mascot135.png",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20190722064132_653_mascot300.png",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20190722064132_653_mascot720.png",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20190722064132_653_mascot1280Near.png",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20190722064132_653_mascot720.png",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/272251/20190722064132_653_mascot1280Near.png",
+                        "width": 1238,
+                        "height": 1024,
+                        "aspectRatio": 1.208984375
+                    },
+                    {
+                        "teamPictureId": 118072,
+                        "creatorUserId": 496564,
+                        "teamId": 274375,
+                        "type": "mascot",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050317_359_mascotOrig.png",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050317_359_mascot35.png",
+                        "max44Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050317_359_mascot44.png",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050317_359_mascot90.png",
+                        "max135Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050317_359_mascot135.png",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050317_359_mascot300.png",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050317_359_mascot720.png",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050317_359_mascot1280Near.png",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050317_359_mascot720.png",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274375/20230813050317_359_mascot1280Near.png",
+                        "width": 901,
+                        "height": 570,
+                        "aspectRatio": 1.580701754385965
+                    },
+                    {
+                        "teamPictureId": 122605,
+                        "creatorUserId": 1635843,
+                        "teamId": 274532,
+                        "type": "mascot",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20231204020939_214_mascotOrig.png",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20231204020939_214_mascot35.png",
+                        "max44Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20231204020939_214_mascot44.png",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20231204020939_214_mascot90.png",
+                        "max135Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20231204020939_214_mascot135.png",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20231204020939_214_mascot300Near.png",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20231204020939_214_mascot300Near.png",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20231204020939_214_mascot300Near.png",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20231204020939_214_mascot300Near.png",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/274532/20231204020939_214_mascot300Near.png",
+                        "width": 200,
+                        "height": 200,
+                        "aspectRatio": 1
+                    },
+                    {
+                        "teamPictureId": 111413,
+                        "creatorUserId": 245990,
+                        "teamId": 275011,
+                        "type": "mascot",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013100_707_mascotOrig.png",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013100_707_mascot35.png",
+                        "max44Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013100_707_mascot44.png",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013100_707_mascot90.png",
+                        "max135Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013100_707_mascot135.png",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013100_707_mascot300.png",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013100_707_mascot720.png",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013100_707_mascot1280Near.png",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013100_707_mascot720.png",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/275011/20221203013100_707_mascot1280Near.png",
+                        "width": 1260,
+                        "height": 1170,
+                        "aspectRatio": 1.0769230769230769
+                    },
+                    {
+                        "teamPictureId": 114176,
+                        "creatorUserId": 2470737,
+                        "teamId": 291366,
+                        "type": "mascot",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/291366/20230411173801_998_mascotOrig.png",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/291366/20230411173801_998_mascot35.png",
+                        "max44Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/291366/20230411173801_998_mascot44.png",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/291366/20230411173801_998_mascot90.png",
+                        "max135Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/291366/20230411173801_998_mascot135.png",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/291366/20230411173801_998_mascot300.png",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/291366/20230411173801_998_mascot720Near.png",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/291366/20230411173801_998_mascot720Near.png",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/291366/20230411173801_998_mascot720Near.png",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/291366/20230411173801_998_mascot720Near.png",
+                        "width": 579,
+                        "height": 431,
+                        "aspectRatio": 1.3433874709976799
+                    },
+                    {
+                        "teamPictureId": 101108,
+                        "creatorUserId": 1436699,
+                        "teamId": 283650,
+                        "type": "mascot",
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/283650/20210626153418_904_mascotOrig.jpg",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/283650/20210626153418_904_mascot35.jpg",
+                        "max44Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/283650/20210626153418_904_mascot44.jpg",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/283650/20210626153418_904_mascot90.jpg",
+                        "max135Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/283650/20210626153418_904_mascot135.jpg",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/283650/20210626153418_904_mascot300.jpg",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/283650/20210626153418_904_mascot720.jpg",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/283650/20210626153418_904_mascot1280Near.jpg",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/283650/20210626153418_904_mascot720.jpg",
+                        "fullUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/283650/20210626153418_904_mascot1280Near.jpg",
+                        "width": 778,
+                        "height": 869,
+                        "aspectRatio": 0.8952819332566168
+                    },
+                    {
+                        "type": "varsityLetter",
+                        "teamPictureId": 110901430,
+                        "width": 963,
+                        "height": 1280,
+                        "aspectRatio": 0.75234375,
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/varsityLetters/1280/B_1090_1430.png",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/varsityLetters/720/B_1090_1430.png",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/varsityLetters/35/B_1090_1430.png",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/varsityLetters/90/B_1090_1430.png",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/varsityLetters/300/B_1090_1430.png",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/varsityLetters/720/B_1090_1430.png",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/varsityLetters/1280/B_1090_1430.png"
+                    },
+                    {
+                        "type": "varsityLetter",
+                        "teamPictureId": 1810301100,
+                        "width": 935,
+                        "height": 1280,
+                        "aspectRatio": 0.73046875,
+                        "originalUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/varsityLetters/1280/S_1030_1100.png",
+                        "thumbnailUrl": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/varsityLetters/720/S_1030_1100.png",
+                        "max35Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/varsityLetters/35/S_1030_1100.png",
+                        "max90Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/varsityLetters/90/S_1030_1100.png",
+                        "max300Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/varsityLetters/300/S_1030_1100.png",
+                        "max720Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/varsityLetters/720/S_1030_1100.png",
+                        "max1280Url": "https://s3-us-west-2.amazonaws.com/scorestream-team-profile-pictures/varsityLetters/1280/S_1030_1100.png"
+                    }
+                ]
+            }
+        }
+    }
+}
